@@ -1,2 +1,2 @@
 # Learning_demo
-Learning Basic to Advance git commands.
+Learning Basic to Advance git commands. Author Mohsin Qureshi
